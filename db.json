@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Gladys Goldner",
+      "id": 2
+    },
+    {
+      "name": "Lillian Rogahn",
+      "id": 3
+    },
+    {
+      "name": "Thelma Turcotte",
+      "id": 4
+    },
+    {
+      "name": "Earnest Rohan",
+      "id": 5
+    },
+    {
+      "name": "Patrick Baumbach",
+      "id": 6
+    }
+  ],
+  "albums": [],
+  "photos": []
+}
