@@ -18,26 +18,6 @@
       "id": 10,
       "title": "Hiking trip",
       "userId": 1
-    },
-    {
-      "userId": 1,
-      "title": "Intelligent Concrete Sausages",
-      "id": 11
-    },
-    {
-      "userId": 1,
-      "title": "Practical Wooden Bike",
-      "id": 12
-    },
-    {
-      "userId": 1,
-      "title": "Refined Rubber Mouse",
-      "id": 13
-    },
-    {
-      "userId": 1,
-      "title": "Generic Concrete Shoes",
-      "id": 14
     }
   ],
   "photos": []
